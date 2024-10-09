@@ -6,3 +6,5 @@ files:
     visible: true
   - name: All About Triangles_Page_2.jpg
     visible: true
+  - name: src/isolateAndEdit.java
+    visible: true
